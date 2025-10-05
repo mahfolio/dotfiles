@@ -1,0 +1,7 @@
+code --install-extension amazonwebservices.codewhisperer-for-command-line-companion
+code --install-extension esbenp.prettier-vscode
+code --install-extension github.copilot
+code --install-extension github.copilot-chat
+code --install-extension jonaduran.my-light-theme
+code --install-extension polymermallard.css-alphabetize
+code --install-extension ritwickdey.liveserver

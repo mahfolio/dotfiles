@@ -1,0 +1,35 @@
+{
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "css.hover.documentation": false,
+  "css.hover.references": false,
+  "editor.accessibilitySupport": "off",
+  "editor.fontSize": 17,
+  "editor.hover.enabled": false,
+  "editor.inlineSuggest.edits.showCollapsed": true,
+  "editor.wordWrap": "wordWrapColumn",
+  "files.autoSave": "afterDelay",
+  "fiveServer.browser": [],
+  "git.openRepositoryInParentFolders": "always",
+  "html.hover.documentation": false,
+  "html.hover.references": false,
+  "less.hover.documentation": false,
+  "less.hover.references": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "npm.scriptHover": false,
+  "scss.hover.documentation": false,
+  "scss.hover.references": false,
+  "terminal.integrated.env.osx": {
+    "CW_NEW_SESSION": "1",
+    "Q_NEW_SESSION": "1"
+  },
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Material Light"
+}
